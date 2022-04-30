@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/lequoctan/.dotnet/store/|arch|/|tfm|",
+      "/Users/lequoctan/.nuget/packages"
+    ]
+  }
+}

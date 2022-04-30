@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{607C4D52-E5FF-4C2D-AB62-3A018B9EEFA6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HyVong/wwwroot/js/chat.js">
+    <Files>
+      <File FileName="HyVong/Controllers/HomeController.cs" Line="30" Column="1" IsPinned="True" />
+      <File FileName="HyVong/Views/Home/Home.cshtml" />
+      <File FileName="HyVong/Views/Home/CoPhieu.cshtml" Line="1" Column="1" />
+      <File FileName="HyVong/MyBackgroundService.cs" Line="74" Column="43" />
+      <File FileName="HyVong/Program.cs" Line="1" Column="1" />
+      <File FileName="HyVong/Startup.cs" Line="58" Column="34" />
+      <File FileName="HyVong/wwwroot/js/chat.js" Line="47" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HyVong" expanded="True">
+            <Node name="HyVong" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Hubs" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True">
+                  <Node name="chat.js" selected="True" />
+                </Node>
+                <Node name="lib" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HyVong PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lequoctan/Projects/HyVong/HyVong/ChayBackGround.cs" relfile="HyVong/ChayBackGround.cs" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
